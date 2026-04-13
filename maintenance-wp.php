@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Maintenance Mode
+ * Plugin Name: Wordpress Maintenance Mode Free
  * Description: Redirect unauthenticated users to a chosen maintenance page.
  * Version: 1.0.0
  * Author: Tristan Brewster
